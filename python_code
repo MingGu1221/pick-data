@@ -1,0 +1,34 @@
+###############divide the data into several txt files from a txt file
+import pandas as pd
+import re
+
+data = []
+all_data = []
+processed_data = []
+processed_all_data = []
+with open('U_Read.txt') as f:
+    for line in f.readlines():
+        data.append(line)
+        if line.startswith("%%%%"):
+            all_data.append(data.copy())
+            data.clear()
+
+# for item in all_data:
+#     print(item)
+
+for data in all_data:
+    for line in data:
+        if "V" in line:
+            x = re.findall(r"\d+\.?\d*", line)
+            processed_data.append(x[0]+"      "+x[1]+"      "+x[2])
+    processed_all_data.append(processed_data.copy())
+    processed_data.clear()
+
+# for item in processed_all_data:
+#     print(item)
+
+for i in range(len(processed_all_data)):
+    file = r'carbon20230118grease_output_' + str(i) + '.txt'
+    with open(file, 'a+') as f:
+        for line in processed_all_data[i]:
+            f.write(line+'\n')
