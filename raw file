@@ -1,0 +1,54 @@
+
+%%%%%%%%%%%%%%%%%%%%%
+0
+Please set the maximum voltage
+0
+Please set the time delay(in milliseconds) between voltage change and measure
+2000
+0 V - Reference Voltage: 1.22058 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.22219 V. Voltage across DEA passive side: 3.29275
+0 V - Reference Voltage: 1.21897 V. Voltage across DEA passive side: 3.28792
+0 V - Reference Voltage: 1.21816 V. Voltage across DEA passive side: 3.28147
+0 V - Reference Voltage: 1.21736 V. Voltage across DEA passive side: 3.26213
+0 V - Reference Voltage: 1.21736 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.21655 V. Voltage across DEA passive side: 3.29275
+0 V - Reference Voltage: 1.22058 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.21736 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.21252 V. Voltage across DEA passive side: 3.29355
+0 V - Reference Voltage: 1.23025 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.23428 V. Voltage across DEA passive side: 3.29839
+0 V - Reference Voltage: 1.24072 V. Voltage across DEA passive side: 3.29758
+0 V - Reference Voltage: 1.23750 V. Voltage across DEA passive side: 3.29758
+0 V - Reference Voltage: 1.23750 V. Voltage across DEA passive side: 3.29758
+0 V - Reference Voltage: 1.24395 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.25281 V. Voltage across DEA passive side: 3.29517
+0 V - Reference Voltage: 1.24314 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.24475 V. Voltage across DEA passive side: 3.29839
+Press 'r' to resume
+%%%%%%%%%%%%%%%%%%%% video saved 14:00 14:03
+Please set the voltage increment
+500
+Please set the maximum voltage
+1500
+Please set the time delay(in milliseconds) between voltage change and measure
+5000
+0 V - Reference Voltage: 1.23669 V. Voltage across DEA passive side: 3.29919
+500 V - Reference Voltage: 1.09329 V. Voltage across DEA passive side: 3.29758
+1000 V - Reference Voltage: 1.35352 V. Voltage across DEA passive side: 3.29436
+1500 V - Reference Voltage: 1.45342 V. Voltage across DEA passive side: 3.29275
+1500 V - Reference Voltage: 0.86931 V. Voltage across DEA passive side: 3.29919
+1000 V - Reference Voltage: 1.02561 V. Voltage across DEA passive side: 3.29839
+500 V - Reference Voltage: 1.26167 V. Voltage across DEA passive side: 3.29517
+0 V - Reference Voltage: 1.16821 V. Voltage across DEA passive side: 3.28308
+Press 'r' to resume
+0 V - Reference Voltage: 1.17869 V. Voltage across DEA passive side: 3.29517
+500 V - Reference Voltage: 1.08120 V. Voltage across DEA passive side: 3.29597
+1000 V - Reference Voltage: 0.90154 V. Voltage across DEA passive side: 3.26697
+1500 V - Reference Voltage: 0.98613 V. Voltage across DEA passive side: 3.27019
+1500 V - Reference Voltage: 1.01433 V. Voltage across DEA passive side: 3.29597
+1000 V - Reference Voltage: 1.11423 V. Voltage across DEA passive side: 3.29919
+500 V - Reference Voltage: 1.06831 V. Voltage across DEA passive side: 3.29919
+0 V - Reference Voltage: 1.15049 V. Voltage across DEA passive side: 3.28389
+0 V - Reference Voltage: 1.13518 V. Voltage across DEA passive side: 3.29839
+Press 'r' to resume
+%%%%%%%%%%%%%%%%%%%% video saved 14:07
